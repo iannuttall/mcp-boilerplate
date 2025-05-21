@@ -6,6 +6,18 @@ This project helps you create your own remote MCP server on Cloudflare with user
 > This project is now free to use and open source. If you want to support me, just follow me on X [@iannuttall](https://x.com/iannuttall) and subscribe to [my newsletter](https://ian.is).
 
 
+## Quick Start MCP Ideas
+
+Try these MCP server implementations with just one prompt:
+
+- [![](https://b.lmpify.com/UI%20Image%20to%20Prompt%20MCP)](https://www.lmpify.com/implement-a-mcp-for-sfhrdr0)
+- [![](https://b.lmpify.com/Prompt%20Improvement%20MCP)](https://www.lmpify.com/implement-a-mcp-for-7ouhhj0) 
+- [![](https://b.lmpify.com/Fix%20My%20Mac%20MCP)](https://www.lmpify.com/implement-a-mcp-for-s2nlmi0)
+- [![](https://b.lmpify.com/HTML%20Component%20Adder%20MCP)](https://www.lmpify.com/implement-a-mcp-for-jb7vp40)
+- [![](https://b.lmpify.com/MCP%20Builder%20MCP)](https://www.lmpify.com/implement-a-mcp-for-xkgdtu0)
+
+Simply click any button above, and lmpify will help you implement the MCP with detailed instructions.
+
 ## What You'll Get
 
 - An MCP server that works with Cursor, Claude and other AI assistants
