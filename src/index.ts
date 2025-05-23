@@ -27,6 +27,7 @@ export class BoilerplateMCP extends PaidMcpAgent<Env, State, AgentProps> {
 		// Example free tools (that don't require payment but do require a logged in user)
 		tools.addTool(this);
 		tools.calculateTool(this);
+		tools.vibeCoderTool(this);
 
 		// Example of a free tool that checks for active subscriptions and the status of the logged in user's Stripe customer ID
 		tools.checkPaymentHistoryTool(this, {
